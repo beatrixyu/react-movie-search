@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-movie-search/static/css/main.23e31083.chunk.css",
+    "main.js": "/react-movie-search/static/js/main.3e81da1b.chunk.js",
+    "main.js.map": "/react-movie-search/static/js/main.3e81da1b.chunk.js.map",
+    "runtime-main.js": "/react-movie-search/static/js/runtime-main.f18536cc.js",
+    "runtime-main.js.map": "/react-movie-search/static/js/runtime-main.f18536cc.js.map",
+    "static/js/2.d16a060d.chunk.js": "/react-movie-search/static/js/2.d16a060d.chunk.js",
+    "static/js/2.d16a060d.chunk.js.map": "/react-movie-search/static/js/2.d16a060d.chunk.js.map",
+    "index.html": "/react-movie-search/index.html",
+    "precache-manifest.7d0063866f2fe3e1f2ac4ada5cb0d7a1.js": "/react-movie-search/precache-manifest.7d0063866f2fe3e1f2ac4ada5cb0d7a1.js",
+    "service-worker.js": "/react-movie-search/service-worker.js",
+    "static/css/main.23e31083.chunk.css.map": "/react-movie-search/static/css/main.23e31083.chunk.css.map",
+    "static/js/2.d16a060d.chunk.js.LICENSE.txt": "/react-movie-search/static/js/2.d16a060d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f18536cc.js",
+    "static/js/2.d16a060d.chunk.js",
+    "static/css/main.23e31083.chunk.css",
+    "static/js/main.3e81da1b.chunk.js"
+  ]
+}
